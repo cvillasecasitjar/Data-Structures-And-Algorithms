@@ -1,0 +1,15 @@
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\FetchAPI-BinarySearch\BinaryUserSearch\bin\Debug\net9.0\BinaryUserSearch.exe
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\FetchAPI-BinarySearch\BinaryUserSearch\bin\Debug\net9.0\BinaryUserSearch.deps.json
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\FetchAPI-BinarySearch\BinaryUserSearch\bin\Debug\net9.0\BinaryUserSearch.runtimeconfig.json
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\FetchAPI-BinarySearch\BinaryUserSearch\bin\Debug\net9.0\BinaryUserSearch.dll
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\FetchAPI-BinarySearch\BinaryUserSearch\bin\Debug\net9.0\BinaryUserSearch.pdb
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\FetchAPI-BinarySearch\BinaryUserSearch\obj\Debug\net9.0\BinaryUserSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\FetchAPI-BinarySearch\BinaryUserSearch\obj\Debug\net9.0\BinaryUserSearch.AssemblyInfoInputs.cache
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\FetchAPI-BinarySearch\BinaryUserSearch\obj\Debug\net9.0\BinaryUserSearch.AssemblyInfo.cs
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\FetchAPI-BinarySearch\BinaryUserSearch\obj\Debug\net9.0\BinaryUserSearch.csproj.CoreCompileInputs.cache
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\FetchAPI-BinarySearch\BinaryUserSearch\obj\Debug\net9.0\BinaryUserSearch.sourcelink.json
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\FetchAPI-BinarySearch\BinaryUserSearch\obj\Debug\net9.0\BinaryUserSearch.dll
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\FetchAPI-BinarySearch\BinaryUserSearch\obj\Debug\net9.0\refint\BinaryUserSearch.dll
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\FetchAPI-BinarySearch\BinaryUserSearch\obj\Debug\net9.0\BinaryUserSearch.pdb
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\FetchAPI-BinarySearch\BinaryUserSearch\obj\Debug\net9.0\BinaryUserSearch.genruntimeconfig.cache
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\FetchAPI-BinarySearch\BinaryUserSearch\obj\Debug\net9.0\ref\BinaryUserSearch.dll

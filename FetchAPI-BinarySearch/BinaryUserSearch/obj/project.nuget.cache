@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yphdx3PpTmw=",
+  "success": true,
+  "projectFilePath": "C:\\CRIS_local\\CS_Courses\\Data-Structures-And-Algorithms\\FetchAPI-BinarySearch\\BinaryUserSearch\\BinaryUserSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cristinavillaseca\\.nuget\\packages\\system.net.http.json\\9.0.8\\system.net.http.json.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
