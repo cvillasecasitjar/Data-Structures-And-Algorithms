@@ -1,0 +1,15 @@
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\GraphTraversal\GraphTraversal\bin\Debug\net9.0\GraphTraversal.exe
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\GraphTraversal\GraphTraversal\bin\Debug\net9.0\GraphTraversal.deps.json
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\GraphTraversal\GraphTraversal\bin\Debug\net9.0\GraphTraversal.runtimeconfig.json
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\GraphTraversal\GraphTraversal\bin\Debug\net9.0\GraphTraversal.dll
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\GraphTraversal\GraphTraversal\bin\Debug\net9.0\GraphTraversal.pdb
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\GraphTraversal\GraphTraversal\obj\Debug\net9.0\GraphTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\GraphTraversal\GraphTraversal\obj\Debug\net9.0\GraphTraversal.AssemblyInfoInputs.cache
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\GraphTraversal\GraphTraversal\obj\Debug\net9.0\GraphTraversal.AssemblyInfo.cs
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\GraphTraversal\GraphTraversal\obj\Debug\net9.0\GraphTraversal.csproj.CoreCompileInputs.cache
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\GraphTraversal\GraphTraversal\obj\Debug\net9.0\GraphTraversal.sourcelink.json
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\GraphTraversal\GraphTraversal\obj\Debug\net9.0\GraphTraversal.dll
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\GraphTraversal\GraphTraversal\obj\Debug\net9.0\refint\GraphTraversal.dll
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\GraphTraversal\GraphTraversal\obj\Debug\net9.0\GraphTraversal.pdb
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\GraphTraversal\GraphTraversal\obj\Debug\net9.0\GraphTraversal.genruntimeconfig.cache
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\GraphTraversal\GraphTraversal\obj\Debug\net9.0\ref\GraphTraversal.dll
