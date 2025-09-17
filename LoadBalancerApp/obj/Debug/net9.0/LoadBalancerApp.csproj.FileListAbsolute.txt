@@ -1,0 +1,15 @@
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\LoadBalancerApp\bin\Debug\net9.0\LoadBalancerApp.exe
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\LoadBalancerApp\bin\Debug\net9.0\LoadBalancerApp.deps.json
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\LoadBalancerApp\bin\Debug\net9.0\LoadBalancerApp.runtimeconfig.json
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\LoadBalancerApp\bin\Debug\net9.0\LoadBalancerApp.dll
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\LoadBalancerApp\bin\Debug\net9.0\LoadBalancerApp.pdb
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\LoadBalancerApp\obj\Debug\net9.0\LoadBalancerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\LoadBalancerApp\obj\Debug\net9.0\LoadBalancerApp.AssemblyInfoInputs.cache
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\LoadBalancerApp\obj\Debug\net9.0\LoadBalancerApp.AssemblyInfo.cs
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\LoadBalancerApp\obj\Debug\net9.0\LoadBalancerApp.csproj.CoreCompileInputs.cache
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\LoadBalancerApp\obj\Debug\net9.0\LoadBalancerApp.sourcelink.json
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\LoadBalancerApp\obj\Debug\net9.0\LoadBalancerApp.dll
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\LoadBalancerApp\obj\Debug\net9.0\refint\LoadBalancerApp.dll
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\LoadBalancerApp\obj\Debug\net9.0\LoadBalancerApp.pdb
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\LoadBalancerApp\obj\Debug\net9.0\LoadBalancerApp.genruntimeconfig.cache
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\LoadBalancerApp\obj\Debug\net9.0\ref\LoadBalancerApp.dll

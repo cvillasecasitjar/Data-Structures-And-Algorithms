@@ -1,0 +1,15 @@
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\AsyncApp\bin\Debug\net9.0\AsyncApp.exe
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\AsyncApp\bin\Debug\net9.0\AsyncApp.deps.json
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\AsyncApp\bin\Debug\net9.0\AsyncApp.runtimeconfig.json
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\AsyncApp\bin\Debug\net9.0\AsyncApp.dll
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\AsyncApp\bin\Debug\net9.0\AsyncApp.pdb
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\AsyncApp\obj\Debug\net9.0\AsyncApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\AsyncApp\obj\Debug\net9.0\AsyncApp.AssemblyInfoInputs.cache
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\AsyncApp\obj\Debug\net9.0\AsyncApp.AssemblyInfo.cs
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\AsyncApp\obj\Debug\net9.0\AsyncApp.csproj.CoreCompileInputs.cache
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\AsyncApp\obj\Debug\net9.0\AsyncApp.sourcelink.json
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\AsyncApp\obj\Debug\net9.0\AsyncApp.dll
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\AsyncApp\obj\Debug\net9.0\refint\AsyncApp.dll
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\AsyncApp\obj\Debug\net9.0\AsyncApp.pdb
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\AsyncApp\obj\Debug\net9.0\AsyncApp.genruntimeconfig.cache
+C:\CRIS_local\CS_Courses\Data-Structures-And-Algorithms\AsyncApp\obj\Debug\net9.0\ref\AsyncApp.dll
